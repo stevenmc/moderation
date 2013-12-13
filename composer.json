@@ -1,0 +1,18 @@
+{
+    "name": "stevenmc/moderation",
+    "type": "cakephp-plugin",
+    "description": "Moderation is a CakePHP plugin developed by Ricky Dunlop to act as a moderation manager",
+    "keywords": [
+        "cakephp", "plugin", "moderation"
+    ],
+    "homepage": "https://github.com/stevenmc/moderation",
+    "authors": [
+        {
+            "name": "Ricky Dunlop",
+            "email": "ricky@rehabstudio.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "*"
+    }
+}
